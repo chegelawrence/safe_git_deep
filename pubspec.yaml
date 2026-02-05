@@ -1,5 +1,5 @@
-name: safe_git_dep
-description: A harmless git dependency used for backend testing
+name: flutter_keyboard_visibility
+description: Safe test git dependency for backend validation
 version: 0.0.1
 
 environment:
