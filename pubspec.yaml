@@ -1,0 +1,6 @@
+name: safe_git_dep
+description: A harmless git dependency used for backend testing
+version: 0.0.1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
